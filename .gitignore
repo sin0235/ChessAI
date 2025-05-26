@@ -1,0 +1,8 @@
+#Bỏ qua file cache
+__pycache__/
+*.py[cod]
+
+# Bỏ qua file cấu hình IDE
+.vscode/
+.idea/
+exports/

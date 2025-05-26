@@ -1,0 +1,1 @@
+move_score += 10  # điểm cao cho nước ăn
